@@ -6,3 +6,6 @@
 *.dll
 *.json
 *.vs
+/.vs
+/bin
+/obj
